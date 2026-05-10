@@ -15,10 +15,3 @@ n8n Automation & DSA
 ![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirbhayalone27&show_icons=true)
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirbhayalone27)](https://github.com/nirbhayalone27)
