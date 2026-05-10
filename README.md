@@ -10,4 +10,6 @@ n8n Automation & DSA
 
 ⚡ Building intelligent workflows with Python, APIs & automation
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamNirbhay95)
+### 🌐 Connect
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamNirbhay95)
+![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
