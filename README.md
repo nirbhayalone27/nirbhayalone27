@@ -12,6 +12,8 @@ n8n Automation & DSA
 
 ### 🌐 Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamNirbhay95)
+[![Nirbhay's LinkedIn](https://img.shields.io/badge/LinkedIn-Nirbhay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirbhayalone/)
+
 ![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
