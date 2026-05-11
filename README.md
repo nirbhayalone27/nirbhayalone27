@@ -5,8 +5,9 @@ Computer Science and Engineering Student
 🌱 Started focusing seriously on coding, AI, automation, and problem solving.
 
 Learning AI Agents
-
 n8n Automation & DSA
+
+"Trying to build an AI SaaS where multiple AI agents colaborate and run an entire business on autopilot."
 
 ⚡ Building intelligent workflows with Python, APIs & automation
 
