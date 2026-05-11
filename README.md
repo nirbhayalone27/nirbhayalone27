@@ -13,7 +13,7 @@ n8n Automation & DSA
 ### 🌐 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/nirbhayalone/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/-In-%230077B5?style=for-the-badge&logo=in&logoColor=white" alt="in" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/iamNirbhay95" target="_blank">
