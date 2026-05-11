@@ -18,4 +18,4 @@ n8n Automation & DSA
 
 ![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-
+[![Nirbhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/nirbhayalone27/&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
