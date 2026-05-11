@@ -7,7 +7,7 @@ Computer Science and Engineering Student
 Learning AI Agents
 n8n Automation & DSA
 
-"Trying to build an AI SaaS where multiple AI agents colaborate and run an entire business on autopilot."
+"Currently working on building a backend core where autonomous networks collaborate to handle complex digital tasks and run an entire business on autopilot."
 
 ⚡ Building intelligent workflows with Python, APIs & automation
 
