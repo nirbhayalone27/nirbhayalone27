@@ -15,3 +15,4 @@ n8n Automation & DSA
 ![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
+metrics.plugin.calendar.full.svg
