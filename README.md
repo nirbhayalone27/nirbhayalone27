@@ -1,8 +1,8 @@
 **This is Nirbhay, I Automate everything**
-
+---
 
 I am a **Computer Science and Engineering Student** building the infrastructure for the future of **Autonomous Intelligence**. 
----
+
 
 ### 🛠️ Tech Stack & Skills
 
