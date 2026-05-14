@@ -1,15 +1,22 @@
 This is Nirbhay, I Automate everything
 
 
-Computer Science and Engineering Student
-🌱 Started focusing seriously on coding, AI, automation, and problem solving.
+I am a **Computer Science and Engineering Student** building the infrastructure for the future of **Autonomous Intelligence**. 
+---
 
-Learning AI Agents
-n8n Automation & DSA
+### 🛠️ Tech Stack & Skills
 
-"Currently working on building a backend core where autonomous networks collaborate to handle complex digital tasks and run an entire business on autopilot."
+*   **AI & Automation**: **Agentic Workflows**, **n8n Automation**, **LLM Orchestration (LangChain/CrewAI)**.
+*   **Backend & Systems**: **Python**, **API Design**, **JSON Protocols**, **Vector Databases**.
+*   **Architecture**: **Multi-Agent Systems (MAS)**, **Autonomous Decision Logic**, **Data Privacy Layers**.
+*   **Core Focus**: **DSA** & **Problem Solving** 
+---
 
-⚡ Building intelligent workflows with Python, APIs & automation
+
+I'm looking to collaborate with builders who are thinking about **"AI Infrastructure"** rather than just "AI Wrappers."
+
+
+**"Currently working on building a backend core where autonomous networks collaborate to handle complex digital tasks and run an entire business on autopilot."**
 
 ### 🌐 Connect
 
@@ -18,3 +25,6 @@ n8n Automation & DSA
 
 ![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
+### 📊 GitHub Stats
+![Nirbhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirbhayalone27&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayalone27&layout=compact&theme=tokyonight)
