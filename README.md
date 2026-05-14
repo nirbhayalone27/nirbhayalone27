@@ -33,6 +33,6 @@ I'm looking to collaborate with builders who are thinking about **"AI Infrastruc
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirbhayalone27&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhayalone27&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhayalone27&theme=github_dark"/>
 
 </p>
