@@ -25,6 +25,10 @@ I'm looking to collaborate with builders who are thinking about **"AI Infrastruc
 
 ![Views](https://komarev.com/ghpvc/?username=nirbhayalone27&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 📊 GitHub Stats
-![Nirbhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirbhayalone27&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayalone27&layout=compact&theme=tokyonight)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/nirbhayalone27&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/nirbhayalone27&layout=compact&theme=tokyonight" height="180em"/>
+</p>
