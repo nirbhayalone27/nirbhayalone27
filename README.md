@@ -15,6 +15,10 @@ I am a **Computer Science and Engineering Student** building the infrastructure 
 
 I'm looking to collaborate with builders who are thinking about **"AI Infrastructure"** rather than just "AI Wrappers."
 
+📫 How to reach me nirbhayalone@duck.com
+
+
+
 
 **"Currently working on building a backend core where autonomous networks collaborate to handle complex digital tasks and run an entire business on autopilot."**
 
