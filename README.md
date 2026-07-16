@@ -7,7 +7,7 @@ I am a **Computer Science and Engineering Student** building the infrastructure 
 ### 🛠️ Tech Stack & Skills
 
 *   **AI & Automation**: **Agentic Workflows**, **n8n Automation**, **LLM Orchestration (LangChain/CrewAI)**.
-*   **Backend & Systems**: **Python**, **API Design**, **JSON Protocols**, **Vector Databases**.
+*   **Backend & Systems**: **Java**, **Python**, **API Design**, **JSON Protocols**, **Vector Databases**.
 *   **Architecture**: **Multi-Agent Systems (MAS)**, **Autonomous Decision Logic**, **Data Privacy Layers**.
 *   **Core Focus**: **DSA** & **Problem Solving** 
 ---
