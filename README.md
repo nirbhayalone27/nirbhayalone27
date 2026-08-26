@@ -13,7 +13,8 @@
 - 💻 Currently focused on **Data Structures & Algorithms** and **<Backend/Frontend/Full-Stack — pick your track>** development
 - 🌱 Learning: **<e.g. Python, Java, React, Node.js, System Design basics>**
 - 🎯 Goal: Landing a Software Engineering internship
-- ⚡ Fun fact: <add something personal/fun here>
+
+I believe good software should feel invisible, it just works, no friction.
 
 ---
 
@@ -22,7 +23,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **<Project 1 AEGIS>** | <One-line description of what it does and why> | `<Tech>` | [https://aegis-floodwatch.netlify.app/](#) · [Code](#) |
+| **<Project 1 AEGIS>** | AEGIS FLOODWATCH predicts, visualizes, and manages flood emergencies in real time, helping authorities make faster, safer, and data-driven response decisions. | Tech: React / Next.js, TypeScript, Tailwind CSS, interactive Maps & 3D visualization, Node.js backend, REST APIs, PostgreSQL/PostGIS, and AI/ML-based flood prediction. | https://aegis-floodwatch.netlify.app/|
 
 
 
