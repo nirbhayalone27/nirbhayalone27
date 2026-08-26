@@ -1,19 +1,35 @@
-**This is Nirbhay, I Automate everything**
+<h1 align="center">Hi 👋, I'm <Your Name></h1>
+<h3 align="center">CSE Undergrad | Building things & solving problems, one commit at a time</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=2nd+Year+CSE+Student;DSA+%2B+Backend+Enthusiast;Aspiring+Software+Engineer;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
+
 ---
 
-I am a **Computer Science and Engineering Student** building the infrastructure for the future of **Autonomous Intelligence**. 
+### 🚀 About Me
 
+- 🎓 2nd Year B.Tech CSE student
+- 💻 Currently focused on **Data Structures & Algorithms** and **<Backend/Frontend/Full-Stack — pick your track>** development
+- 🌱 Learning: **<e.g. Python, Java, React, Node.js, System Design basics>**
+- 🎯 Goal: Landing a Software Engineering internship
+- ⚡ Fun fact: <add something personal/fun here>
 
-### 🛠️ Tech Stack & Skills
-
-*   **AI & Automation**: **Agentic Workflows**, **n8n Automation**, **LLM Orchestration (LangChain/CrewAI)**.
-*   **Backend & Systems**: **Java**, **Python**, **API Design**, **JSON Protocols**, **Vector Databases**.
-*   **Architecture**: **Multi-Agent Systems (MAS)**, **Autonomous Decision Logic**, **Data Privacy Layers**.
-*   **Core Focus**: **DSA** & **Problem Solving** 
 ---
 
 
-I'm looking to collaborate with builders who are thinking about **"AI Infrastructure"** rather than just "AI Wrappers."
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **<Project 1 AEGIS>** | <One-line description of what it does and why> | `<Tech>` | [https://aegis-floodwatch.netlify.app/](#) · [Code](#) |
+
+
+
+
+
+
+---
 
 📫 How to reach me nirbhayalone@duck.com
 
