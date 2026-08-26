@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 2nd Year B.Tech CSE student
-- 💻 Currently focused on **Data Structures & Algorithms** and **<Backend/Frontend/Full-Stack — pick your track>** development
+- 💻 Currently focused on **Data Structures & Algorithms** and **<Full-Stack>** development
 - 🌱 Learning: **<e.g. Python, Java, React, Node.js, System Design basics>**
 - 🎯 Goal: Landing a Software Engineering internship
 
