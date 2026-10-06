@@ -23,7 +23,7 @@ I believe good software should feel invisible, it just works, no friction.
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **<Project 1 JALSAHAYAK-national-disaster-response>** | JALSAHAYAK predicts, visualizes, and manages flood emergencies in real time, helping authorities make faster, safer, and data-driven response decisions. | Tech: React / Next.js, TypeScript, Tailwind CSS, interactive Maps & 3D visualization, Node.js backend, REST APIs, PostgreSQL/PostGIS, and AI/ML-based flood prediction. | 3446jt47-5173.inc1.devtunnels.ms|
+| **<Project 1 JALSAHAYAK-national-disaster-response>** | JALSAHAYAK predicts, visualizes, and manages flood emergencies in real time, helping authorities make faster, safer, and data-driven response decisions. | Tech: React / Next.js, TypeScript, Tailwind CSS, interactive Maps & 3D visualization, Node.js backend, REST APIs, PostgreSQL/PostGIS, and AI/ML-based flood prediction. | https://3446jt47-5173.inc1.devtunnels.ms|
 
 
 
